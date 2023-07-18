@@ -86,6 +86,8 @@
   #include "T41BB5X_Pro_map.h"
 #elif defined(BOARD_GRBLHAL2000)
   #include "GRBLHAL2000_map.h"
+#elif defined(BOARD_LASERBOARD_R5)
+    #include "GRBLHAL2000_map.h"
 #elif defined(BOARD_MY_MACHINE)
   #include "my_machine_map.h"
 #else // default board

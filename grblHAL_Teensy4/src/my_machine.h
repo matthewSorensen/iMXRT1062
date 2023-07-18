@@ -29,6 +29,7 @@
 //#define BOARD_T41BB5X_PRO
 //#define BOARD_CNC_BOOSTERPACK
 //#define BOARD_GRBLHAL2000
+//#define BOARD_LASERBOARD_R5
 //#define BOARD_MY_MACHINE // Add my_machine_map.h before enabling this!
 //#define BAUD_RATE 230400
 // Configuration
